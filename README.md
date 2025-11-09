@@ -4,8 +4,8 @@
 <pre>
     ❄️ Senior Backend Engineer @ Joom
     💻 Go • Kotlin • Java  
-    🐾 Big Tech & Startups 🐤🐥
-    📚 Ex Tinkoff, Ozon, EPAM, CFT
+    🐾 Big Tech • Startups 🐤🐥
+    📚 Ex Tinkoff • Ozon • EPAM • CFT
     💼 BSC @ OSTU 
     🎮 Music • Games • Anime • Code
 </pre>
