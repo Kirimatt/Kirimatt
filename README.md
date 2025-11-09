@@ -5,7 +5,6 @@
     ❄️ Senior Backend Engineer
     💻 Go • Kotlin • Java  
     💼 BSC @ OSTU 
-    📖 Software architecture • Distributed systems
     🎮 Music • Games • Anime • Code • Art
     🐾 Big Tech & Startups 🐤🐥
 </pre>
