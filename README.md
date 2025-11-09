@@ -2,11 +2,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&size=50&pause=100&center=true&vCenter=true&multiline=true&width=1735&height=140&lines=Hey+hey!;I'm+kirimatt%2C+the+best+software+engineer+that+you+need+<3" width="70%"/>
 <br><br>
 <pre>
-    ❄️ Senior Backend Engineer
+    ❄️ Senior Backend Engineer @ Joom
     💻 Go • Kotlin • Java  
+    🐾 Big Tech & Startups 🐤🐥
+    📚 Ex Tinkoff, Ozon, EPAM, CFT
     💼 BSC @ OSTU 
     🎮 Music • Games • Anime • Code
-    🐾 Big Tech & Startups 🐤🐥
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/kirimatt/kirimatt/master/assets/katana_zero_bike.gif" height="40" />
