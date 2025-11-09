@@ -10,7 +10,7 @@
     🐾 Big Tech & Startups 🐤🐥
 </pre>
 <br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://raw.githubusercontent.com/kirimatt/kirimatt/master/assets/katana_zero_bike.gif" height="40" />
 <br><br><br>
 
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://linkedin.com/in/kirimatt)
